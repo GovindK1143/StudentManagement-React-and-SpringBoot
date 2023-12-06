@@ -33,11 +33,11 @@ export default function Home() {
     <tr>
       <th scope="col">ID</th>
       <th scope="col">NAME</th>
-      <th scope="col">SUB1</th>
-      <th scope="col">SUB2</th>
-      <th scope="col">SUB3</th>
-      <th scope="col">SUB4</th>
-      <th scope="col">SUB5</th>
+      <th scope="col">Telugu</th>
+      <th scope="col">English</th>
+      <th scope="col">Mathes</th>
+      <th scope="col">Hindi</th>
+      <th scope="col">Social</th>
       <th scope="col">TOTAL</th>
       <th scope="col">PERCENT</th>
       <th scope="col">GRADE</th>
