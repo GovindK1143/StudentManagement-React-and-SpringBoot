@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ReactSpringBootStudentManagementApplication<React-SpringBoot-StudentManagement>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.web.ReactSpringBootStudentManagementApplication",
+            "projectName": "React-SpringBoot-StudentManagement",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
